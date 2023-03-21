@@ -29,6 +29,6 @@ Finally, using this information, decisions will be made to improve the service.
 ## __Notes__
 -   An automatic ML process is followed for simplicity. 
 -   Previous analysis and experimentation using Data Science and Machine Learning techniques are not shown.
--   The most important features were selected from several models in a previous exercise. But the same could have been achieved through a more complex Python script inside Power Query.
+-   The most important features were selected from several models in a previous exercise. The same could have been achieved through a more complex Python script inside Power Query.
 -   The training dashboard is also important to the business as a model with similar/enough performance to the top one could involve the use of fewer resources (complexity, cloud processing time, etc.). 
 
